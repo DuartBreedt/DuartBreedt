@@ -11,6 +11,7 @@
 🐨 Chasm of silly facts
 
 See https://github.com/braydoncoyer for inspiration
+https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
 TODO: Tags
 TODO: Pinned repos
 TODO: Skills
