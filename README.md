@@ -1,16 +1,20 @@
-### Hi there 👋
+![Hi, I'm Duart Breedt](./assets/cover.png)
+<!-- 
+### Snooping are we? Well while you're here you can find more information about me 🙃
 
-<!--
-**DuartBreedt/DuartBreedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐨 Software Developer
 
-Here are some ideas to get you started:
+🐨 BSc CS (Hons) from UP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐨 Photographer/videographer
+
+🐨 Chasm of silly facts
+
+See https://github.com/braydoncoyer for inspiration
+TODO: Tags
+TODO: Pinned repos
+TODO: Skills
+TODO: Office quotes
+
+- <h5><a href="https://www.instagram.com/duartbreedt/">📷 INSTAGRAM 📷</a></h5>
+- <h5><a href="mailto:duartbreedt@gmail.com">📧 EMAIL 📧</a></h5> -->
