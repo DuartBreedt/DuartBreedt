@@ -1,4 +1,4 @@
-![Hi, I'm Duart Breedt](./assets/cover.png)
+[![Hi, I'm Duart Breedt](./assets/cover.png)](#)
 
 <span align="center">
   
@@ -16,15 +16,17 @@
 
 <span align="center">
   
-  ![Visits Badge](https://badges.pufler.dev/visits/DuartBreedt/DuartBreedt?style=for-the-badge&color=F27E2D)
-  ![Repos Badge](https://badges.pufler.dev/repos/DuartBreedt?style=for-the-badge&color=F27E2D)
-  ![Gists Badge](https://badges.pufler.dev/gists/DuartBreedt?style=for-the-badge&color=F27E2D)
+  [![Visits Badge](https://badges.pufler.dev/visits/DuartBreedt/DuartBreedt?style=for-the-badge&color=F27E2D)](#)
+  [![Repos Badge](https://badges.pufler.dev/repos/DuartBreedt?style=for-the-badge&color=F27E2D)](#)
+  [![Gists Badge](https://badges.pufler.dev/gists/DuartBreedt?style=for-the-badge&color=F27E2D)](#)
 
 </span>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuartBreedt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff9e36&bg_color=2F3640" alt="Duart's GitHub Stats" />
-</p>
+<span align="center">
+
+  [![Duart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuartBreedt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff9e36&bg_color=2F3640)](#)
+
+</span>
 
 <!-- 
 
