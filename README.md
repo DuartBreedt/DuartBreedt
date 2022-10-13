@@ -16,9 +16,9 @@
 
 <span align="center">
   
-  [![Visits Badge](https://badges.pufler.dev/visits/DuartBreedt/DuartBreedt?style=for-the-badge&color=F27E2D)](#)
-  [![Repos Badge](https://badges.pufler.dev/repos/DuartBreedt?style=for-the-badge&color=F27E2D)](https://github.com/DuartBreedt?tab=repositories)
-  [![Gists Badge](https://badges.pufler.dev/gists/DuartBreedt?style=for-the-badge&color=F27E2D)](https://gist.github.com/DuartBreedt)
+  [![Visits Badge](https://badges.strrl.dev/visits/DuartBreedt/DuartBreedt?style=for-the-badge&color=F27E2D)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/DuartBreedt?style=for-the-badge&color=F27E2D)](https://github.com/DuartBreedt?tab=repositories)
+  [![Gists Badge](https://badges.strrl.dev/gists/DuartBreedt?style=for-the-badge&color=F27E2D)](https://gist.github.com/DuartBreedt)
 
 </span>
 
