@@ -28,7 +28,10 @@
 
 </span>
 
+<h2>PROJECTS</h2>
+
 <span align="center">
+
   [![Expense Organizer](https://img.shields.io/badge/-Expense%20Organizer-%23714efe?style=for-the-badge)](https://expenseorganizer.app/)
 </span>
 
